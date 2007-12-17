@@ -11,7 +11,6 @@ URL:		http://www.kde.org/
 Source0:	%{name}-%{version}.tar.bz2
 Source1:	unsermake.sh
 Requires:	python
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch:	noarch
 
 %description
