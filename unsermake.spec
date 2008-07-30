@@ -1,6 +1,6 @@
 Name:		unsermake
 Version:	0.4
-Release:	%mkrel 1
+Release:	%mkrel 3
 Summary:	Buildsystem utility to supersed auto* tools
 Summary(pt_BR):	Utilitário para sobreposição das ferramentas auto* em buildsystems
 Group:		Development/Other
