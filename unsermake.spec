@@ -44,3 +44,34 @@ rm -rf %{buildroot}
 %{_sysconfdir}/profile.d/*
 
 
+
+
+%changelog
+* Wed Sep 09 2009 Thierry Vignaud <tvignaud@mandriva.com> 0.4-5mdv2010.0
++ Revision: 434547
+- rebuild
+
+* Sun Aug 03 2008 Thierry Vignaud <tvignaud@mandriva.com> 0.4-4mdv2009.0
++ Revision: 261775
+- rebuild
+
+* Wed Jul 30 2008 Thierry Vignaud <tvignaud@mandriva.com> 0.4-3mdv2009.0
++ Revision: 255171
+- rebuild
+
+* Wed Jan 02 2008 Olivier Blin <oblin@mandriva.com> 0.4-1mdv2008.1
++ Revision: 140924
+- restore BuildRoot
+
+  + Thierry Vignaud <tvignaud@mandriva.com>
+    - kill re-definition of %%buildroot on Pixel's request
+
+
+* Thu Feb 15 2007 Per Øyvind Karlsen <pkarlsen@mandriva.com> 0.4-1mdv2007.0
++ Revision: 121521
+- Import unsermake
+
+* Thu May 25 2006 José Melo <mmodem00@gmail.com> 0.4-1mdv2007.1
+- Save spec in utf-8
+- 0.4
+
