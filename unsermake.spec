@@ -7,7 +7,7 @@ Group:		Development/Other
 Group(pt_BR):	Utilitários
 Group(es):	Utilitarios
 License:	GPL
-URL:		http://www.kde.org/
+URL:		https://www.kde.org/
 Source0:	%{name}-%{version}.tar.bz2
 Source1:	unsermake.sh
 Requires:	python
